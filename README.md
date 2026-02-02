@@ -1,5 +1,15 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Science+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Building+Intelligent+Solutions+with+Python" />
+
+---
+
 # 💫 About Me:
-I’m a passionate Data Science and Machine Learning enthusiast with a strong foundation in Python and data analysis. I enjoy transforming raw data into meaningful insights and building machine learning models that solve real-world problems.<br>I’m currently focused on strengthening my skills in machine learning algorithms, model evaluation, and AI fundamentals, while continuously improving through hands-on projects and open-source collaboration. I value clean code, critical thinking, and practical problem-solving.<br>I’m open to internships, research opportunities, and collaborations in Data Science, Machine Learning, and Artificial Intelligence, where I can learn, contribute, and grow professionally.
+I’m a passionate Data Science and Machine Learning enthusiast with a strong foundation in Python and data analysis. I enjoy transforming raw data into meaningful insights and building machine learning models that solve real-world problems.<br>
+I’m currently focused on strengthening my skills in machine learning algorithms, model evaluation, and AI fundamentals, while continuously improving through hands-on projects and open-source collaboration. I value clean code, critical thinking, and practical problem-solving.<br>
+I’m open to internships, research opportunities, and collaborations in Data Science, Machine Learning, and Artificial Intelligence, where I can learn, contribute, and grow professionally.
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=Connect+With+Me" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/blessed_exodus)
@@ -7,6 +17,10 @@ I’m a passionate Data Science and Machine Learning enthusiast with a strong fo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/exodus-blessed-nyame-715889283)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@realexodus)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:exodusbnyame@gmail.com)
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=Tech+Stack" />
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -21,10 +35,21 @@ I’m a passionate Data Science and Machine Learning enthusiast with a strong fo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
+<!-- subtle animated icons -->
+<img src="https://skillicons.dev/icons?i=python,js,mysql,numpy,pandas,scikitlearn,tensorflow,github&perline=8" />
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=GitHub+Statistics" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EBNyame&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EBNyame&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EBNyame&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=Contribution+Graph" />
 
 ## 🐍 Contribution Graph
 <picture>
@@ -33,14 +58,25 @@ I’m a passionate Data Science and Machine Learning enthusiast with a strong fo
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EBNyame/EBNyame/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=435&lines=Achievements" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EBNyame&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EBNyame&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 [![](https://visitcount.itsvg.in/api?id=EBNyame&icon=0&color=0)](https://visitcount.itsvg.in)
